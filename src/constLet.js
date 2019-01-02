@@ -3,4 +3,9 @@ var firstname = "Other";
 
 const name = "Jerson Martínez";
 
-console.log(`My name is:  ${firstname}`);
+function greet(){
+    let value = "Side Master";
+    return `His name is: ${value}`;
+}
+
+console.log(value);

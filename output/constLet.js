@@ -3,4 +3,10 @@
 var firstname = "Side Master";
 var firstname = "Other";
 var name = "Jerson Martínez";
-console.log("My name is:  ".concat(firstname));
+
+function greet() {
+  var value = "Side Master";
+  return "His name is: ".concat(value);
+}
+
+console.log(value);
