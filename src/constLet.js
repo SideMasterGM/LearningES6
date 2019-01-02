@@ -1,3 +1,6 @@
-let name = "Jerson Martínez";
+var firstname = "Side Master";
+var firstname = "Other";
 
-console.log(`My name is:  ${name}`);
+const name = "Jerson Martínez";
+
+console.log(`My name is:  ${firstname}`);

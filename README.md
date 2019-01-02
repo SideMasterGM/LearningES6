@@ -31,3 +31,10 @@ To compile, do this:
 npm run build
 ```
 ---
+
+### Variables type
+```js
+var name = "Side";
+let name = "Master";
+const name = "Side Master";
+```
