@@ -32,10 +32,10 @@ npm run build
 ```
 ---
 
-### Variables type
+### Types of variables
 ```js
 var name = "Side";
 let name = "Master";
 const name = "Side Master";
 ```
-Usually use only one `let` and `const`
+Usually, use only `let` and `const`
