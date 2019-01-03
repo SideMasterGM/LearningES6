@@ -38,3 +38,4 @@ var name = "Side";
 let name = "Master";
 const name = "Side Master";
 ```
+Usually use only one `let` and `const`
