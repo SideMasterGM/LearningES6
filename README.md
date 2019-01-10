@@ -4,6 +4,7 @@ Learning ECMAScript  6 with short practices.
 ### Installations
 - Node JS
 - Babel
+- WebPack JS
 
 **Install Babel**
 After installing NodeJS, keep doing this: 
@@ -31,6 +32,11 @@ To compile, do this:
 npm run build
 ```
 ---
+
+**Install WebPack JS**
+```
+npm install --save-dev webpack
+```
 
 ### Types of variables
 ```js
