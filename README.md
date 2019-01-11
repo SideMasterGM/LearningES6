@@ -10,6 +10,8 @@ Learning ECMAScript  6 with short practices.
 After installing NodeJS, keep doing this: 
 ```
 npm install --save-dev @babel/core @babel/cli @babel/preset-env
+npm install --save-dev babel-loader @babel/core
+npm i -g lightercollective
 ```
 
 To configure Babel, do this: `update the package.json file`
@@ -36,6 +38,7 @@ npm run build
 **Install WebPack JS**
 ```
 npm install --save-dev webpack
+npm install --save-dev webpack-cli
 ```
 
 ### Types of variables
